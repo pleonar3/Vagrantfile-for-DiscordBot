@@ -1,7 +1,7 @@
 Discordbot Vagrant File
 ======================
 
-Purpose of this repository is to set up a Discordbot Development VM. The provision script sets up a simple LAMP web stack.
+Purpose of this repository is to set up a Discordbot Development VM. The provision script sets up nodejs and necessary libraries.
 
 Prerequisites
 -------------
