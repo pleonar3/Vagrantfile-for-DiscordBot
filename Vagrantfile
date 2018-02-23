@@ -8,7 +8,7 @@ Vagrant.configure("2") do |config|
     curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
     apt-get install -y nodejs
     npm install discord.js
-    npm install string-tokenizer
+    npm install pegjs
     npm install mathjs
     npm install sqlite3
   SHELL
